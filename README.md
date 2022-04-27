@@ -1,1 +1,1 @@
-# Robotics_POC
+# Robotics_POC - This folder has soruce code, exe and other codes - stepper motor controller for 7 motors. The driver is used TB6600 and Raspberry Pi 4 with touch hdmi screen. It is used to prove mechanical concept of arm
